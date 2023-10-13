@@ -1,1 +1,15 @@
-{ "cursos": [ { "id": "2w1", "title": "Curso Tarde", "q_alumnos": 50 }, { "id": "2w2", "title": "Curso Noche", "q_alumnos": 46 } ] } 
+{
+  "idCustomer": 1,
+  "firstName": "Bruno",
+  "lastName": "Toledo",
+  "companyName": "string",
+  "ivaCondition": "consumidor final",
+  "email": "vruno@toledo.com",
+  "phoneNumber": "33333333",
+  "address": "mesa y castro",
+  "birthDate": "2023-10-13T14:43:37.716Z",
+  "documentType": "string",
+  "documentNumber": 32457394,
+  "customerType": "fisica",
+  "createdAt": "2023-10-13T14:43:37.718Z"
+} 
